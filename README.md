@@ -26,4 +26,4 @@ Upload करने को push कहते हैं
 
 क्लोन करने की command है `git clone repo-ka-url`
 
-Example: git clone https://github.com/foobarcoders/learnjs/edit/master/README.md`
+Example: `git clone https://github.com/foobarcoders/learnjs/edit/master/README.md`
