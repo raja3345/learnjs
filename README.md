@@ -19,11 +19,12 @@ ya download कर सकते हैं
 जब fork करोगे तो उस फोल्डर की कापी तुम्हारे GitHub account में भी
 बन जाएगी
 
-तुम्हारे account में जो भी repo है उसको पहली बार कापी करने को
-clone करना कहते हैं
-उसके बाद download/sync करने को pull कहते हैं
-Upload करने को push कहते हैं
+तुम्हारे account में जो भी repo है उसको **पहली बार** कापी करने को
+**clone** करना कहते हैं
+उसके बाद download/sync करने को **pull** कहते हैं
+Upload करने को **push** कहते हैं
 
-क्लोन करने की command है `git clone repo-ka-url`
+क्लोन करने की command है `git clone git clone https://github.com/**तुम्हारा_account_name**/learnjs`
 
-Example: `git clone https://github.com/foobarcoders/learnjs/edit/master/README.md`
+Example: `git clone https://github.com/foobarcoders/learnjs`
+*
