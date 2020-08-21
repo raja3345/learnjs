@@ -20,11 +20,13 @@ ya download कर सकते हैं
 बन जाएगी
 
 तुम्हारे account में जो भी repo है उसको **पहली बार** कापी करने को
-**clone** करना कहते हैं
-उसके बाद download/sync करने को **pull** कहते हैं
-Upload करने को **push** कहते हैं
+**clone** करना कहते हैं।
 
-क्लोन करने की command है `git clone git clone https://github.com/**तुम्हारा_account_name**/learnjs`
+उसके बाद download/sync करने को **pull** कहते हैं।
+
+Upload करने को **push** कहते हैं।
+
+क्लोन करने की command है `git clone git clone https://github.com/तुम्हारा_account_name/learnjs`
 
 Example: `git clone https://github.com/foobarcoders/learnjs`
 *
